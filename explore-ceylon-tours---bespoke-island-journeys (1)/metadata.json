@@ -1,0 +1,6 @@
+{
+  "name": "Explore Ceylon Tours - Bespoke Island Journeys",
+  "description": "Discover the Beauty of Sri Lanka with bespoke tours, luxury chauffeur transport, wildlife safaris, tea plantation journeys, and authentic cultural expeditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
